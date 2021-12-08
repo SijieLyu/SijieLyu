@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SijieLyu
 - 👀 I’m interested in data science, machine learning and deep learning
-- 🌱 I’m currently learning natural language processing and data science model building as a whole
+- 🌱 I’m currently learning natural language processing and data science model building
 - 📫 My email: sijie.liu1989@gmail.com
 
 <!---
